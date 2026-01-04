@@ -1,0 +1,23 @@
+[
+    {
+        "mode": "Single",
+        "player_x": "Player X",
+        "player_o": "AI",
+        "result": "Draw",
+        "time": "Jan 04, 17:56"
+    },
+    {
+        "mode": "Local",
+        "player_x": "Rahma",
+        "player_o": "Basmalla",
+        "result": "Rahma",
+        "time": "Jan 04, 17:56"
+    },
+    {
+        "mode": "Local",
+        "player_x": "Player X",
+        "player_o": "Player O",
+        "result": "Player O",
+        "time": "Jan 04, 17:57"
+    }
+]
